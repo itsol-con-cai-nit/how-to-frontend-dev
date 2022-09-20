@@ -38,3 +38,6 @@ Và bây giờ ứng dụng của bạn đã chạy ở port 8080,truy cập và
 - Import Cost
 - Color Info - Todo Highlighter
 - Path Intellisense
+
+# 3. REFERENCES
+[1] https://vi.vuejs.org/v2/guide/#Bat-dau
